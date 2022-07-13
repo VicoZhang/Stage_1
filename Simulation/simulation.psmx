@@ -1,0 +1,80 @@
+<Meta name="simulation">
+  <messagelist>
+    <message status="normal" label="build" groupid="100006">
+      <User scope="simulation" name="simulation" status="normal" link="1404419677" /><![CDATA[Generating network and source code 'D:\SRP_project\Stage_1\Simulation\simulation.gf42\Station.f'.]]></message>
+    <message status="normal" label="build" groupid="100006">
+      <User scope="simulation" name="Main" status="normal" link="1755945712" /><![CDATA[Generating network and source code 'D:\SRP_project\Stage_1\Simulation\simulation.gf42\Main.f'.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="893248598" /><![CDATA[A previous declaration 'T1' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="618780026" /><![CDATA[A previous declaration 'T2' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1413892971" /><![CDATA[A previous declaration 'T4' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1622489623" /><![CDATA[A previous declaration 'T3' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1586273931" /><![CDATA[A previous declaration 'T6' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1018824005" /><![CDATA[A previous declaration 'T7' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="339536958" /><![CDATA[A previous declaration 'T5' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="368943976" /><![CDATA[A previous declaration 'T9' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="2067914682" /><![CDATA[A previous declaration 'T8' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="2071063685" /><![CDATA[A previous declaration 'T9' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1880593877" /><![CDATA[A previous declaration 'T5' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1784306913" /><![CDATA[A previous declaration 'T6' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1146074687" /><![CDATA[A previous declaration 'T8' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1798647046" /><![CDATA[A previous declaration 'T7' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1404342255" /><![CDATA[A previous declaration 'T3' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="465515381" /><![CDATA[A previous declaration 'T4' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="1330786589" /><![CDATA[A previous declaration 'T2' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="simulation" name="master:nodelabel" status="warning" link="941862631" /><![CDATA[A previous declaration 'T1' as a bus exists. This signal at this point will be bound to the bus.]]></message>
+    <message status="warning" label="build" groupid="205001">
+      <User scope="simulation" name="master:source_3" status="warning" link="403123194" /><![CDATA[Suspicious floating terminal at node 'NT_28'.]]></message>
+    <message status="warning" label="build" groupid="206502">
+      <User scope="simulation" name="master:mrun" status="warning" link="591962410" /><![CDATA[Signal 'ENAB' type conversion may lose accuracy at connection 'MEnab']]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100006"><![CDATA[Generating 'D:\SRP_project\Stage_1\Simulation\simulation.gf42\simulation.map'.]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100014"><![CDATA[The total number of live nodes: 58]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="400000"><![CDATA[Time for Compile: 156ms  Make: 0ms]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100015"><![CDATA[Will execute (1): call E:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100015"><![CDATA[Will execute (1): call "E:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat"]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100015"><![CDATA[Will execute (2): make -f simulation.mak]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100015"><![CDATA[Will execute (2): "D:\SRP_project\Stage_1\Simulation\simulation.gf42\simulation.mak.bat"]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100005"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="0"><![CDATA[D:\SRP_project\Stage_1\Simulation\simulation.gf42>call "E:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat" ]]></message>
+    <message status="normal" label="build" scope="simulation" groupid="100012"><![CDATA[Linking objects and libraries into binary 'simulation.exe']]></message>
+    <message status="normal" label="build" scope="simulation" groupid="400000"><![CDATA[Solve Time = 16ms]]></message>
+  </messagelist>
+  <List classid="Settings" />
+  <ViewContext>
+    <Window defn="simulation:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="7" scrollx="1636" scrolly="0" />
+  </List>
+  <Output device="EMTDC" version="2010" date="2022/06/04" time="22:45:08.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="2000.0" end="500" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):U" index="0" id="1545599719:0" label="Bus Voltage" dim="3" unit="kV" min="-200" max="200" />
+      <Analog name="Main(0):I" index="3" id="1622570220:0" label="Bus Current" dim="3" unit="kA" min="-10" max="10" />
+      <Analog name="Main(0):TransitionR" index="6" id="1546166839:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):FaultTime" index="7" id="199051570:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):FaultType" index="8" id="580559365:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+  <Catalog count="0" />
+</Meta>
